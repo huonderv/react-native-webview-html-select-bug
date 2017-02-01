@@ -17,7 +17,7 @@ npm install
 react-native run-android
 ```
 
-The demo app only includes a basic WebView in index.android.js, which renders a simple HTML \<select\> (see code below).
+The demo app includes a basic WebView in index.android.js, which renders a simple HTML \<select\> (see code below).
 
 
 ##Code
