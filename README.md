@@ -1,4 +1,24 @@
-# React Native Project showing the WebView <select\> bug
+# React Native WebView <select\> bug on Android Tablets
+
+##Description
+HTML <select\> tag does not work in React Native WebView on Android tablets, i.e. clicking on the select button does not open the options list.
+
+##Tested Devices:
+- Samsung Galaxy Tag S2 (SM-T810)
+- Nexus 7
+
+##How to Reproduce the Bug 
+The bug can be reproduced using the demo React Native project in this repository:
+
+```bash
+git clone https://github.com/huonderv/react-native-webview-html-select-bug.git
+cd react-native-webview-html-select-bug
+npm install
+react-native run-android
+```
+
+The demo app only includes a basic WebView in index.android.js, which renders a simple HTML <select\> (see code below).
+
 
 ##Code
 __index.android.js:__
