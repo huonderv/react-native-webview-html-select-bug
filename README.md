@@ -8,7 +8,7 @@ The HTML \<select\> tag does not work in React Native WebView on Android tablets
 - Nexus 7
 
 ##How to Reproduce the Bug 
-The bug can be reproduced using the demo React Native project in this repository:
+The bug can be reproduced using the demo React Native app in this repository:
 
 ```bash
 git clone https://github.com/huonderv/react-native-webview-html-select-bug.git
