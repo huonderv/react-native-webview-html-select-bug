@@ -52,9 +52,10 @@ __simpleselect.html:__
 ### Smartphone
 On an Android smartphone, the select works as expected:
 
-<kbd><img src="/screenshots/react-native-webview-select-smartphone-1.png?raw=true" alt="Initial" width="200"></kbd>
-<kbd><img src="/screenshots/react-native-webview-select-smartphone-2.png?raw=true" alt="Tap on select button" width="200"></kbd>
-<kbd><img src="/screenshots/react-native-webview-select-smartphone-3.png?raw=true" alt="List of options opens" width="200"></kbd>
+| Initial | Tap on select button | List of options opens |
+|---|---|---|
+| <img src="/screenshots/react-native-webview-select-smartphone-1.png?raw=true" alt="Initial" width="200">| <img src="/screenshots/react-native-webview-select-smartphone-2.png?raw=true" alt="Tap on select button" width="200"> | <img src="/screenshots/react-native-webview-select-smartphone-3.png?raw=true" alt="List of options opens" width="200"> |
+
 
 ### Tablet
 However, on an Android tablet, tapping on the select button does not open the options list:
