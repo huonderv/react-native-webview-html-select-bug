@@ -52,13 +52,13 @@ __simpleselect.html:__
 ### Smartphone
 On an Android smartphone, the select works as expected:
 
-![Alt text](screenshots/react-native-webview-smartphone-1.png?raw=true "Initial")
-![Alt text](screenshots/react-native-webview-smartphone-2.png?raw=true "Tap on <select>")
-![Alt text](screenshots/react-native-webview-smartphone-3.png?raw=true "List of options opens")
+![Screenshot](/screenshots/react-native-webview-select-smartphone-1.png?raw=true "Initial")
+![Screenshot](/screenshots/react-native-webview-select-smartphone-2.png?raw=true "Tap on <select>")
+![Screenshot](/screenshots/react-native-webview-select-smartphone-3.png?raw=true "List of options opens")
 
 ### Tablet
 However, on an Android tablet, tapping on the select button does not open the options list:
 
-![Alt text](screenshots/react-native-webview-tablet-1.png?raw=true "Initial")
-![Alt text](screenshots/react-native-webview-tablet-2.png?raw=true "Tap on <select>")
-![Alt text](screenshots/react-native-webview-tablet-3.png?raw=true "Nothing happens")
+![Screenshot](/screenshots/react-native-webview-select-tablet-1.png?raw=true "Initial")
+![Screenshot](/screenshots/react-native-webview-select-tablet-2.png?raw=true "Tap on <select>")
+![Screenshot](/screenshots/react-native-webview-select-tablet-3.png?raw=true "Nothing happens")
